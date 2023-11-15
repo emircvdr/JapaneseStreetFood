@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;*{margin:0;padding:0;box-sizing:border-box}body{background-color:#071517}a{text-decoration:none}li{list-style:none}@font-face{font-family:japan;src:url(/assets/japan-832629c5.ttf)}@font-face{font-family:barcode;src:url(/assets/barcode-3404e23f.ttf)}@font-face{font-family:ıtim;src:url(/assets/ıtim-acdd351e.ttf)}

@@ -1,1 +1,1 @@
-# JapaneseStreetFood
+# japanese-street-food

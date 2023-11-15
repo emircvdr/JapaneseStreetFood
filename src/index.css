@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #071517;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+
+@font-face {
+  font-family: "japan";
+  src: url(../src/assets/fonts/japan.ttf);
+}
+@font-face {
+  font-family: "barcode";
+  src: url(../src/assets/fonts/barcode.ttf);
+}
+@font-face {
+  font-family: "ıtim";
+  src: url(../src/assets/fonts/ıtim.ttf);
+}
